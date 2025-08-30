@@ -57,7 +57,7 @@ const developer = {
 ## 🔭 Current Projects
 
 - **📊 Data Analysis Platform** - Building comprehensive analytics dashboards with Python and React
-- **🏥 WorldBuilding SaaS** - Developing Atherscribe for medical documentation and workflow management
+- **🏥 WorldBuilding SaaS** - Developing Atherscribe for World Building for Game designers and Fiction Writers
 - **⚡ Smart Workspace Generator** - Automating project setup workflows for development teams
 - **🌟 Nano SaaS Ventures** - Exploring entrepreneurship in micro-software solutions and AI integration
 
