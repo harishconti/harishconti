@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Harish NG
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=harishconti&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harishconti)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harishconti&theme=flat&no-frame=true&margin-w=30)](https://github.com/harishconti)
-
+  [![Profile Views](https://komarev.com/ghpvc/?username=harishconti&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harishconti)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harishconti&theme=flat&no-frame=true&margin-w=30)](https://github.com/harishconti)
 </div>
 
 ## 🚀 About Me
@@ -28,64 +26,49 @@ const developer = {
 
 <div align="center">
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Cloud & DevOps**  
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 
-**Data & Databases**  
+**Data & Databases**
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Development Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
 </div>
 
-## 🔭 Current Projects
-
-- **📊 Data Analysis Platform** - Building comprehensive analytics dashboards with Python and React
-- **🏥 WorldBuilding SaaS** - Developing Atherscribe for World Building for Game designers and Fiction Writers
-- **⚡ Smart Workspace Generator** - Automating project setup workflows for development teams
-- **🌟 Nano SaaS Ventures** - Exploring entrepreneurship in micro-software solutions and AI integration
-
-## 🌱 Learning Journey
-
-- **AI/ML Integration** - Exploring Gemini AI Studio and modern ML workflows for SaaS applications
-- **Mobile Development** - Android app development for SaaS products using React Native
-- **Business Strategy** - Digital marketing, SaaS business models, and startup methodologies
-- **Real Estate Tech** - Investment analysis tools and property management automation
-
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishconti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishconti&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishconti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishconti&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishconti&theme=radical" alt="GitHub Streak" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harishconti&theme=tokyonight" />
 </div>
 
-## 🏆 Recent Activity
+## 🏆 Recent Github Activity & Stats
 
-- 🔨 **22 commits** across 4 repositories in August 2025
-- 🆕 Created **Data-Analysis-Dashboards** (Python)
-- 🆕 Created **Atherscribe** (TypeScript) 
-- 🆕 Created **Smart-Project-Workspace-Generator** (TypeScript)
-- 🔄 **4 pull requests** merged successfully
+- 🔥 **Active commit streak**: Consistent contributions in October 2025
+- 📝 **15 commits this week** (Sep 30 – Oct 5, 2025) in [doctor-log](https://github.com/harishconti/doctor-log)
+- 🏗️ Major merged Pull Requests:
+  - Subscription state management, backend/frontend refactors, and security updates
+- 📈 **Total contributions this year:** 143
+
+> *"Building, merging, and refactoring – pushing quality code every week!"*
 
 ## 🤝 Connect With Me
 
@@ -132,6 +115,6 @@ If you find my projects helpful, consider supporting my work:
 
 💡 *Always learning, always building, always innovating.*
 
-<sub>⭐️ From [harishconti](https://github.com/harishconti)</sub>
+⭐️ From [harishconti](https://github.com/harishconti)
 
 </div>
