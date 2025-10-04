@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Harish NG
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=harishconti&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harishconti)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=harishconti&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harishconti)
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harishconti&theme=flat&no-frame=true&margin-w=30)](https://github.com/harishconti)
+
 </div>
 
 ## 🚀 About Me
@@ -52,42 +54,40 @@ const developer = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishconti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishconti&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harishconti&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishconti&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishconti&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harishconti&theme=radical&hide_border=true)
+
 </div>
 
 ## 🏆 Recent Github Activity & Stats
 
 - 🔥 **Active commit streak**: Consistent contributions in October 2025
 - 📝 **15 commits this week** (Sep 30 – Oct 5, 2025) in [doctor-log](https://github.com/harishconti/doctor-log)
-- 🏗️ Major merged Pull Requests:
+- 🏗️ **Major merged Pull Requests**:
   - Subscription state management, backend/frontend refactors, and security updates
-- 📈 **Total contributions this year:** 143
+- 📈 **Total contributions this year**: 143
 
-> *"Building, merging, and refactoring – pushing quality code every week!"*
+> "Building, merging, and refactoring – pushing quality code every week!"
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-n-g)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23112840/harish)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ngharish)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@pythondecoder101)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngharish.python@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/harish-n-g"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/23112840/harish"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://kaggle.com/ngharish"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.youtube.com/c/@pythondecoder101"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:harishng@pythondecoder.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ## 💡 Quick Facts
 
-- 🏢 **Based in** Bengaluru, Karnataka, India
-- 💼 **Open to** collaboration on innovative data engineering and SaaS projects
-- 📝 **Writing** technical content at [pythondecoder.com](https://pythondecoder.com)
-- 💬 **Ask me about** Python, Data Engineering, AWS, ETL Pipelines, SaaS Development, AI/ML Integration
+- 🏢 Based in **Bengaluru, Karnataka, India**
+- 💼 Open to collaboration on innovative **data engineering** and **SaaS projects**
+- 📝 Writing technical content at [pythondecoder.com](https://pythondecoder.com/)
+- 💬 Ask me about **Python, Data Engineering, AWS, ETL Pipelines, SaaS Development, AI/ML Integration**
 - 🎯 **Current Focus** Building scalable data solutions and exploring nano SaaS opportunities
 - ⚡ **Fun fact** I'm developing multiple SaaS products while planning my entrepreneurial journey!
 
@@ -99,22 +99,14 @@ const developer = {
 
 ## 💖 Support My Work
 
-<div align="center">
-
 If you find my projects helpful, consider supporting my work:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harishng)
-
-</div>
-
-<div align="center">
-
-**"Code. Build. Scale. Repeat."** 🚀
+<a href="https://www.buymeacoffee.com/harishng"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
 
 ---
 
-💡 *Always learning, always building, always innovating.*
+> "Code. Build. Scale. Repeat." 🚀
 
-⭐️ From [harishconti](https://github.com/harishconti)
+💡 **Always learning, always building, always innovating.**
 
-</div>
+<p align="center">⭐️ From <a href="https://github.com/harishconti">harishconti</a></p>
