@@ -46,8 +46,9 @@ const developer = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-argocd-0081C2?logo=argocd&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/ArgoCD-13A085?style=flat&logo=argocd&logoColor=white)
+
 
 
 **Data & Databases**
