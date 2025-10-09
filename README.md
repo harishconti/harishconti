@@ -85,7 +85,7 @@ const developer = {
 
 ## 💡 Quick Facts
 
-- 🏢 Based in **Bengaluru, Karnataka, India**
+- 🏢 Based in **Bengaluru, India**
 - 💼 Open to collaboration on innovative **data engineering** and **SaaS projects**
 - 📝 Writing technical content at [pythondecoder.com](https://pythondecoder.com/)
 - 💬 Ask me about **Python, Data Engineering, AWS, ETL Pipelines, SaaS Development, AI/ML Integration**
