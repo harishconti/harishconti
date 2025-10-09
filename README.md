@@ -105,7 +105,7 @@ const developer = {
 ## 🎓 Continuous Learning
 
 - **Certifications**: Python OOP, NumPy Foundations, REST APIs, Generative AI
-- **Reading**: Fantasy novels, business strategy books, and tech innovation content
+- **Reading**: Fantasy novels, business strategy books, new frameworks and tech innovation content
 - **Exploring**: Multi-platform app development, digital marketing strategies, startup methodologies
 
 ## 💖 Support My Work
