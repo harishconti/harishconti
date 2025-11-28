@@ -17,7 +17,7 @@ const developer = {
   name: "Harish NG",
   location: "Bengaluru, Karnataka 🇮🇳",
   role: "Data Engineer",
-  experience: "5+ years",
+  experience: "6+ years",
   currentFocus: ["SaaS Development", "AI/ML Integration", "Entrepreneurship"],
   learning: ["Advanced TypeScript", "Mobile Development", "Digital Marketing"],
   hobbies: ["Fantasy Novels", "Music", "Tech Content Creation"],
