@@ -73,13 +73,12 @@ const developer = {
 
 </div>
 
-## 🏆 Recent Github Activity & Stats
+## 🏆 Featured Projects & Activity
 
-- 🔥 **Active commit streak**: Consistent contributions in October 2025
-- 📝 **15 commits this week** (Sep 30 – Oct 5, 2025) in [doctor-log](https://github.com/harishconti/doctor-log)
-- 🏗️ **Major merged Pull Requests**:
-  - Subscription state management, backend/frontend refactors, and security updates
-- 📈 **Total contributions this year**: 143
+- 🏥 **[HealLog](https://github.com/harishconti/doctor-log)** - A patient management system for medical professionals (FastAPI + React Native)
+- 🌍 **[Atherscribe](https://github.com/harishconti/Atherscribe)** - Worldbuilding application for gamers and writers (TypeScript)
+- 🎵 **[Audio Processing](https://github.com/harishconti/audio-processing)** - API exploration with FastAPI and Python
+- 🏗️ **Consistent contributor** with focus on subscription management, security updates, and full-stack development
 
 > "Building, merging, and refactoring – pushing quality code every week!"
 
@@ -89,7 +88,7 @@ const developer = {
   <a href="https://linkedin.com/in/harish-n-g"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/23112840/harish"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://kaggle.com/ngharish"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://www.youtube.com/c/@pythondecoder101"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@pythondecoder101"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:ngharish.python@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
