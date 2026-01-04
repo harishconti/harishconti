@@ -38,8 +38,6 @@ const developer = {
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=flat&logo=fastapi&logoColor=white)
 
-
-
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -49,8 +47,6 @@ const developer = {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/ArgoCD-13A085?style=flat&logo=argocd&logoColor=white)
 
-
-
 **Data & Databases**
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -58,7 +54,6 @@ const developer = {
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
 
 </div>
 
